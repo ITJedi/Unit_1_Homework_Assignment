@@ -1,14 +1,14 @@
-# TITLE
+# Goldman Sachs
 
 ## Overview and Origin
 
-* Goldman Sachs
+* Company name Goldman Sachs
 
 * Founded 1869
 
 * Marcus Goldman, Samuel Sachs
 
-* How did the idea for the company (or project) come about?
+* I was interested in doing a case study on a large company that has been semi-resistant to adopting cryptocurrency into their business plan.
 
 * Was originally funded by Marcus Goldman, unable to locate initial  investment
 
@@ -25,11 +25,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Various, huge into investment banking
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* What are the other major companies in this domain?
+* JPMorgan Chase, BofA Securities, Morgan Stanley.
 
 
 ## Results
