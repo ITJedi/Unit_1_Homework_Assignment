@@ -1,5 +1,11 @@
 # Goldman Sachs
 
+
+
+![](https://thequantuminsider.com/wp-content/uploads/goldman-sachs-logo-1024x576.jpeg)
+
+
+
 ## Overview and Origin
 
 * Company name Goldman Sachs
@@ -15,38 +21,37 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Banking and investments
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The bank tended to be focused on large companies or extremely high net worth individuals. With their new Marcus product, they are opening the door to lower income individuals to use their services.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* The company uses a wide variety of technologies to meet their end goals. They use technology such as data analytics/big data to analyze the financial markets to determine the best investment opportunities. They have recently started looking at using digital assets such as blockchains to help with various problems like payments and remitments and also as a possible investment opportunity.
 
 
 ## Landscape:
 
 * Various, huge into investment banking
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* As this company has various domains, they have had various impacts. One example, the company has used technology to enhance their robo advising and have even opened up their investment opportunities to lower income people via their Marcus product. Thereby allowing a greater percentage of the population investment opportunities. 
 
 * JPMorgan Chase, BofA Securities, Morgan Stanley.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The impact this company has on the world is huge. They manage billions of dollars in investments.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Annual rate of return is one of the more commonly used metrics. Goldman’s returns are generally above average.
 
-* How is your company performing relative to competitors in the same domain?
+* The company is performing above average.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I would suggest the company really dig even deeper into cryptocurrency and other digital assets. While they have started to look into it as they have been very hesitant to embrace it. There are so many products that could be offered here. 
 
-* Why do you think that offering this product or service would benefit the company?
+* These types of services are relatively new, and a lot of companies charge a premium for services like this. Coinbase for example, a large cryptocurrency exchange, charges a large premium on trades. There is money to be made here with having more competitors in the space.
 
-* What technologies would this additional product or service utilize?
+* Digital assets, blockchain tech
 
-* Why are these technologies appropriate for your solution?
+* These technologies are the solutions.
