@@ -55,3 +55,12 @@
 * Digital assets, blockchain tech
 
 * These technologies are the solutions.
+
+
+## Sources
+
+* [Goldman Sachs](https://www.goldmansachs.com/)
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Goldman_Sachs)
+* [CNBC](https://www.cnbc.com/2021/10/29/goldman-sachs-is-giving-hedge-fund-clients-crypto-research-from-data-firm-the-block.html)
+
